@@ -36,3 +36,117 @@
     transform: rotate(360deg);
   }
 }
+
+.container2{
+  background-color:rgb(14, 13, 13);
+}
+.koma{
+  background-color:"#16252d"
+}
+.first1{
+  margin-top: 0px;
+  border-radius: 50px;
+
+}
+.first1:hover{
+  opacity: 0.5; 
+  cursor: pointer;
+ }
+
+.second1{
+border-radius: 50px;
+display: flex;
+margin-left: 100px;
+margin-top: 0px;
+}
+.second1:hover{
+  opacity:0.5;
+}
+.third1{
+border-radius: 50px;
+display: flex;
+
+margin-left: 200px;
+}
+
+.third1:hover{
+  opacity: 0.5;
+}
+.fourth1{
+  border-radius: 50px;
+  display: flex;
+  margin-top:0px;
+  
+}
+.fourth1:hover{
+  opacity: 0.5;
+}
+.fifth1{
+  border-radius: 50px;
+  display: flex;
+  margin-top: 20px;
+  margin-left: 120px;
+}
+.fifth1:hover{
+  opacity: 0.5;
+}
+.fifth{
+border-radius: 50px;
+display: flex;
+float: right;
+margin-right: 40px;
+ margin-top: 90px; 
+}
+.fifth:hover{
+  opacity: 0.5;
+}
+.sixth1{
+  border-radius: 50px;
+  float: right; 
+}
+.sixth1:hover{
+  opacity: 0.5;
+}
+
+.seventh{
+border-radius: 50px; 
+display: flex;
+margin-top: 100px;
+float: right;
+}
+.seventh:hover{
+  opacity: 0.5;
+}
+.eighth{
+  border-radius: 50px;
+  display: flex;
+  float: right;
+  margin-top: 50px;
+  margin-right: 120px;
+
+}
+.eighth:hover{
+  opacity: 0.5;
+}
+
+.tenth{
+  border-radius: 50px;
+  display: flex;
+  float: right;
+  margin-top: 80px;
+  margin-right: 60px;
+} 
+
+
+
+
+
+
+
+
+.tenth:hover{
+  opacity:0.5;
+}
+
+
+
